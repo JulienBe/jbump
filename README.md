@@ -90,7 +90,7 @@ world.update(item, newX, newY, newWidth, newHeight);
 world.update(item, newX, newY); // not resize
 ```
 
-Available Response: `slide`, `cross` and `touch`.
+Available Response: `slide`, `cross`, `bounce` and `touch`.
 
 Get collided items
 ```Java
